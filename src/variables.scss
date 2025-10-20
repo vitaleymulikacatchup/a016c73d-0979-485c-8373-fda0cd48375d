@@ -1,0 +1,90 @@
+/* ============================================ */
+/* CSS/SCSS Variables Extracted from Source */
+/* Auto-generated from website cloning */
+/* ============================================ */
+
+/* ============================================ */
+/* CSS Custom Properties (use with var(--name)) */
+/* ALL CSS variables must be inside :root block */
+/* ============================================ */
+:root {
+  /* Colors */
+  --r-localnav-text-zoom-factor: 1;
+  --sk-focus-color: #0071e3;
+  --r-globalnav-color: rgba(0, 0, 0, .8);
+  --r-globalnav-color-secondary: #333336;
+  --r-globalnav-color-hover: #000000;
+  --r-globalnav-submenu-header-color: rgb(134, 134, 139);
+  --r-globalnav-search-input-placeholder-color: rgb(110, 110, 115);
+  --r-globalnav-search-input-value-color: #333336;
+  --r-globalnav-search-list-header-color: rgb(110, 110, 115);
+  --r-globalnav-search-list-item-color: #333336;
+  --r-globalnav-search-list-item-hover-color: #000000;
+  --r-globalnav-search-list-item-nonsearchterm-color: rgb(110, 110, 115);
+  --r-globalnav-search-list-item-searchterm-color: #333336;
+  --globalmessage-segment-text-color: rgba(255, 255, 255, .92);
+  --globalmessage-segment-border-color: rgba(255, 255, 255, .4);
+  --progress-indicator-curtain-color: rgba(255, 255, 255, .48);
+  --progress-indicator-color: rgba(255, 255, 255, .8);
+  --sk-button-color: rgb(255, 255, 255);
+  --sk-button-color-hover: rgb(255, 255, 255);
+  --sk-button-color-active: rgb(255, 255, 255);
+  --sk-button-border-color: transparent;
+  --sk-button-border-radius: 8px;
+  --sk-button-border-width: 1px;
+  --gf-focus-color: var(--sk-focus-color);
+  --gf-focus-color-alt: rgb(255, 255, 255);
+  --buystrip-border-color: rgba(0, 0, 0, 0.16);
+  --buystrip-text-color: rgba(0, 0, 0, 0.88);
+  --buystrip-text-secondary-color: rgba(0, 0, 0, 0.56);
+  --buystrip-link-color: rgb(0, 102, 204);
+  --footer-border-color: rgba(0, 0, 0, 0.16);
+  --footer-text-color: rgba(0, 0, 0, 0.56);
+  --footer-link-color: rgba(0, 0, 0, 0.72);
+  --footer-pipe-color: rgba(0, 0, 0, 0.48);
+  --footer-directory-title-color: rgba(0, 0, 0, 0.88);
+  --footer-directory-title-color-hover: #000;
+  --localnav-focus-color: var(--sk-focus-color);
+  --localnav-focus-color-alt: rgb(0, 0, 0);
+  --localnav-keyline-color: rgba(0, 0, 0, 0.16);
+  --localnav-background: rgba(250, 250, 252, 0.8);
+  --localnav-background-stuck: rgba(250, 250, 252, 0.92);
+  --r-globalnav-background: rgba(0, 0, 0, .8);
+  --r-globalnav-background-opened: #fafafc;
+  --r-globalnav-background-opened-dark: #161617;
+  --r-localnav-height: calc(52px * var(--r-localnav-text-zoom-factor));
+  --r-localnav-gn-height: calc(var(--r-globalnav-height, 48px) * var(--r-localnav-text-zoom-factor));
+  --r-globalnav-flyout-spacing: 88px;
+  --sk-button-margin-horizontal: 9px;
+  --sk-button-margin-vertical: 9px;
+  --sk-button-padding-horizontal: 16px;
+  --sk-button-padding-vertical: 9px;
+  --buystrip-content-padding: 22px;
+  --buystrip-items-padding-bottom: 56px;
+  --r-localnav-margin-bottom: calc(-1 * var(--r-localnav-height));
+  --r-localnav-margin-top: var(--r-localnav-gn-height);
+  --r-localnav-content-padding: 16px;
+  --r-localnav-title-link-color: rgb(0, 0, 0);
+  --r-localnav-title-subhead-color: rgb(0, 0, 0);
+  --gutter-color: #fff;
+  --double-edge-border-width: 0px;
+  --edge-border-width: 0px;
+  --background-color: #f5f5f7;
+  --text-color: #1d1d1f;
+  --r-globalnav-font-size: 17px;
+  --fontSize: 80px;
+  --r-globalmessage-segment-height: 0px;
+}
+
+/* ============================================ */
+/* Usage Guide */
+/* ============================================ */
+
+/* CSS Custom Properties (--var-name) */
+/* Use: color: var(--primary-color); */
+
+/* SCSS Variables ($var-name) */
+/* Use: color: $primary-color; */
+
+/* You can also use these in your Tailwind config */
+/* by importing this file or referencing the values */
